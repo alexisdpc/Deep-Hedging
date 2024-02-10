@@ -1,6 +1,6 @@
 ## Deep Hedging
 
-Deep Hedging was proposed in [[1802.03042]](https://arxiv.org/abs/1802.03042)  by Hans Bühler, Lukas Gonon, Josef Teichmann and Ben Wood. The idea is to use a neural network architecture to hedge a portfolio of derivatives without computing the "greeks". This repository is based on lectures given by Josef Teichmann.
+Deep Hedging was proposed in [[1802.03042]](https://arxiv.org/abs/1802.03042)  by Hans Bühler, Lukas Gonon, Josef Teichmann and Ben Wood. The aim is to use a neural network architecture to hedge a portfolio of derivatives without computing the "greeks". This repository is based on lectures given by Josef Teichmann.
 
 
 In the plots below, we show the histograms for the predictions of the deep hedging model and the Black-Scholes model. The results concentrate around zero as expected.
